@@ -1,0 +1,5 @@
+agno
+groq
+python-dotenv
+rich
+sqlalchemy[asyncio]
