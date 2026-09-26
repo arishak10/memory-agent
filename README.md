@@ -97,11 +97,9 @@ Create a `.env` file in the project folder:
 
 ```env
 GROQ_API_KEY=your_groq_api_key
-```
-
-Replace `your_groq_api_key` with your own Groq API key.
 
 **Never upload your `.env` file or expose your API key publicly.**
+```
 
 ## Run the Project
 
